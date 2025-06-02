@@ -26,7 +26,7 @@ This repository contains a collection of simple Java examples demonstrating the 
    ```bash
    git clone https://github.com/Nirvaaww/javafx.git
    cd javafx
-````
+
 
 2. **Compile and run:**
 
