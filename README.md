@@ -1,24 +1,28 @@
-# 🧵 Java Thread Examples
+# 🧵 JavaFX Threading Examples
 
-This repository contains a collection of simple Java examples focused on **threading and concurrent programming**. Each example demonstrates how to use Java threads for basic concurrency tasks.
+This repository contains a collection of simple Java examples demonstrating the use of **threads** and their integration with **JavaFX**. These examples are part of my learning journey.
 
-##  Contents
+## 📁 Contents
 
-The examples cover:
-
--  Creating threads with `Thread` and `Runnable`
--  Synchronization using the `synchronized` keyword
-- 🍽 Simple producer-consumer patterns
+- `Ejemplohilos.java`: Basic example showcasing thread creation and execution.
+- `FormularioPrueba.java`: Demonstrates a JavaFX form with thread interaction.
+- `Hilo1.java` & `Hilo2.java`: Illustrate the creation of multiple threads and their behaviors.
+- `RecursoHilos.java`: Example of shared resource management between threads.
+- `RelojDigital.java`: A digital clock implemented using JavaFX and threading.
 
 ## 🚀 Getting Started
 
-### Requirements
-- Java JDK 8 or higher
-- Java IDE (IntelliJ IDEA, Eclipse, etc.) or terminal
+### Prerequisites
 
-### How to Run
+- Java Development Kit (JDK) 8 or higher.
+- An IDE like IntelliJ IDEA, Eclipse, or NetBeans.
+- JavaFX SDK configured in your development environment.
 
-1. Clone the repository:
+### Running the Examples
+
+1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com/your-username/java-thread-examples.git
-   cd java-thread-examples
+   git clone https://github.com/Nirvaaww/javafx.git
+   cd javafx
+
